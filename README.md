@@ -1,3 +1,4 @@
 # holamundo
-Mi primer repositorio Git
-Susana Gonzalez Valladolid Spain
+
+Susana Gonzalez Valladolid Spain</br>
+Desarrollo de aplicaciones web
